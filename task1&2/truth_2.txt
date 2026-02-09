@@ -1,0 +1,1 @@
+This is a simple test document used to evaluate the basic text extraction capabilities of various Python libraries. It contains no complex formatting, no images, and no tables. The purpose is to establish a baseline performance metric for word error rate. If a parser fails here, it will likely fail on more complex documents.
